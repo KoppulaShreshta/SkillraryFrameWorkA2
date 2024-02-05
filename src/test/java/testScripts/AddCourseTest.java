@@ -9,6 +9,7 @@ import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
 
 public class AddCourseTest extends BaseClass{
+	//This method is used to add the course
 	@Test
 	public void addCourseTest() throws InterruptedException {
 		SoftAssert soft=new SoftAssert();
